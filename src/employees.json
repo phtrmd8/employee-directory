@@ -1,0 +1,128 @@
+[
+	{
+		"id" : 1,
+		"first_name" : "Jun",
+		"last_name" : "Allard",
+		"title" : "Regional Manager",
+		"salary" : 180000.00,
+		"department" : "Executive",
+		"manager" : null
+	},
+	{
+		"id" : 2,
+		"first_name" : "Mike C.",
+		"last_name" : "Cranston",
+		"title" : "Accountant",
+		"salary" : 70000.00,
+		"department" : "Finance",
+		"manager" : null
+	},
+	{
+		"id" : 3,
+		"first_name" : "Chris",
+		"last_name" : "Davis",
+		"title" : "Manager",
+		"salary" : 150000.00,
+		"department" : "Operations",
+		"manager" : null
+	},
+	{
+		"id" : 4,
+		"first_name" : "Neil",
+		"last_name" : "Donaldson",
+		"title" : "Software Engineer",
+		"salary" : 175000.00,
+		"department" : "Information Technology",
+		"manager" : null
+	},
+	{
+		"id" : 5,
+		"first_name" : "German",
+		"last_name" : "Ruiz",
+		"title" : "Assistant to the Regional Manager",
+		"salary" : 90000.00,
+		"department" : "Executive",
+		"manager" : "Michael Scott"
+	},
+	{
+		"id" : 6,
+		"first_name" : "Chris",
+		"last_name" : "Fischbacher",
+		"title" : "Sales Representative",
+		"salary" : 60000.00,
+		"department" : "Sales",
+		"manager" : "Michael Scott"
+	},
+	{
+		"id" : 7,
+		"first_name" : "Alex",
+		"last_name" : "Fox",
+		"title" : "Sales Representative",
+		"salary" : 60000.00,
+		"department" : "Sales",
+		"manager" : "Michael Scott"
+	},
+	{
+		"id" : 8,
+		"first_name" : "Hamid",
+		"last_name" : "Hezari",
+		"title" : "Sales Representative",
+		"salary" : 60000.00,
+		"department" : "Sales",
+		"manager" : "Michael Scott"
+	},
+	{
+		"id" : 9,
+		"first_name" : "Ken",
+		"last_name" : "Huber",
+		"title" : "Sales Representative",
+		"salary" : 60000.00,
+		"department" : "Sales",
+		"manager" : "Michael Scott"
+	},
+	{
+		"id" : 10,
+		"first_name" : "Kelly",
+		"last_name" : "Gutierrez",
+		"title" : "Accountant",
+		"salary" : 70000.00,
+		"department" : "Finance",
+		"manager" : "Angela Martin"
+	},
+	{
+		"id" : 11,
+		"first_name" : "Josh",
+		"last_name" : "Jordan",
+		"title" : "Accountant",
+		"salary" : 70000.00,
+		"department" : "Finance",
+		"manager" : "Angela Martin"
+	},
+	{
+		"id" : 12,
+		"first_name" : "Nathan",
+		"last_name" : "Powell",
+		"title" : "Quality Control Associate",
+		"salary" : 40000.00,
+		"department" : "Operations",
+		"manager" : "Darryl Philbin"
+	},
+	{
+		"id" : 13,
+		"first_name" : "Andy",
+		"last_name" : "Rubin",
+		"title" : "Manager",
+		"salary" : 80000.00,
+		"department" : "Sales",
+		"manager" : "Michael Scott"
+	},
+	{
+		"id" : 14,
+		"first_name" : "Daniel",
+		"last_name" : "Simonson",
+		"title" : "HR Associate",
+		"salary" : 60000.00,
+		"department" : "Human Resources",
+		"manager" : "Michael Scott"
+	}
+]

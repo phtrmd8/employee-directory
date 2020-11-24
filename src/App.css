@@ -1,0 +1,34 @@
+body {
+  background-color: #A0DDEE;
+  font-family: 'Work Sans', sans-serif;
+  color:#18202C;
+  padding-bottom: 75px;
+}
+
+.App {
+  text-align: center;
+}
+
+h1 {
+  color: #0F185A;
+  font-weight: 800;
+}
+
+.wrapper {
+  padding-top: 50px;
+  background: #ECEFF1;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 20px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+
+.title {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 50px;
+}
